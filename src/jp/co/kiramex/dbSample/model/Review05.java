@@ -41,7 +41,6 @@ public class Review05 {
 
                     System.out.println(name);
                     System.out.println(age);
-
                 }
             } catch (ClassNotFoundException e) {
                 System.err.println("JDBCドライバのロードに失敗しました。");
